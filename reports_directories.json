@@ -1,0 +1,36 @@
+{
+    "Monday":{
+        "Report":{
+            "test":"https://manobustaslt.sharepoint.com/sites/Masineskomunikacijossarasai/Shared%20Documents/Komunikacijos%20%C5%A0ablonai/test.xlsx",
+            "test_ula":"//ula//ManoBustas//Files//Ataskaitos_Skaitikliai//test.xlsx"
+                }
+                },
+    "Tuesday":{
+        "Report":{
+            "test":"https://manobustaslt.sharepoint.com/sites/Masineskomunikacijossarasai/Shared%20Documents/Komunikacijos%20%C5%A0ablonai/test.xlsx"
+            
+                }
+                },
+    "Wednesday":{
+        "Report":{
+            
+            "skaitikliai_V2":"https://manobustaslt.sharepoint.com/sites/Masineskomunikacijossarasai/Shared%20Documents/Komunikacijos%20%C5%A0ablonai/test.xlsx"
+           
+                }
+                },
+    "Thursday":{
+        "Report":{
+
+            "skaitikliai_V2":"https://manobustaslt.sharepoint.com/sites/Masineskomunikacijossarasai/Shared%20Documents/Komunikacijos%20%C5%A0ablonai/test.xlsx"
+       
+                }
+                },
+    "Friday":{
+        "Report":{
+
+           "test_report":"https://manobustaslt.sharepoint.com/sites/Masineskomunikacijossarasai/Shared%20Documents/Komunikacijos%20%C5%A0ablonai/test.xlsx"
+          
+                }
+                }
+
+}   
