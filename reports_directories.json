@@ -1,36 +1,28 @@
 {
-    "Monday":{
-        "Report":{
-            "test":"./path/file.xlsx",
-            "test_ula":"./path/file.xlsx"
-                }
-                },
-    "Tuesday":{
-        "Report":{
-            "test":"./path/file.xlsx"
-            
-                }
-                },
-    "Wednesday":{
-        "Report":{
-            
-            "skaitikliai_V2":"./path/file.xlsx"
-           
-                }
-                },
-    "Thursday":{
-        "Report":{
-
-            "skaitikliai_V2":"./path/file.xlsx"
-       
-                }
-                },
-    "Friday":{
-        "Report":{
-
-           "test_report":"./path/file.xlsx"
-          
-                }
-                }
-
-}   
+    "Monday": {
+        "Report": {
+            "test": "C:\\Users\\darju\\OneDrive\\Stalinis kompiuteris\\test.xlsx",
+            "test_ula": "C:\\Users\\darju\\OneDrive\\Stalinis kompiuteris\\test.xlsx"
+        }
+    },
+    "Tuesday": {
+        "Report": {
+            "test": "C:\\Users\\darju\\OneDrive\\Stalinis kompiuteris\\test.xlsx"
+        }
+    },
+    "Wednesday": {
+        "Report": {
+            "skaitikliai_V2": "C:\\Users\\darju\\OneDrive\\Stalinis kompiuteris\\test.xlsx"
+        }
+    },
+    "Thursday": {
+        "Report": {
+            "skaitikliai_V2": "C:\\Users\\darju\\OneDrive\\Stalinis kompiuteris\\test.xlsx"
+        }
+    },
+    "Friday": {
+        "Report": {
+            "test_report": "C:\\Users\\darju\\OneDrive\\Stalinis kompiuteris\\test.xlsx"
+        }
+    }
+}
